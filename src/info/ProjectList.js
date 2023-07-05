@@ -1,6 +1,7 @@
 import MyTubeImg from '../assets/MyTube.png'
 import InstaImg from '../assets/Insta.png'
 import LandingPageImg from '../assets/LandingPage.png'
+import ShopImg from '../assets/ShopImg.png'
 
 export const ProjectList = [
     {
@@ -13,7 +14,7 @@ export const ProjectList = [
     {
       name: "Instagram copy on React/Redux",
       img: InstaImg,
-      skills: "React, Redux, CSS, Youtube v3 API",
+      skills: "React, Redux, CSS, JSONPlaceholder",
       git: 'MyInstagram',
       gitPages: 'MyInstagram'
     },
@@ -23,5 +24,12 @@ export const ProjectList = [
       skills: "Javascript(JS), HTMl, CSS",
       git: "Landing-Page",
       gitPages: "Landing-Page/land.html"
+    },
+    {
+      name: "React/Redux Shop",
+      img: ShopImg,
+      skills: "React, Redux, Typescript, HTMl, CSS, DummyJSON_API",
+      git: "Shop",
+      gitPages: "https://karentsaturyan.github.io/Shop/"
     }
   ]
