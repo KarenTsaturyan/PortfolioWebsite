@@ -30,6 +30,6 @@ export const ProjectList = [
       img: ShopImg,
       skills: "React, Redux, Typescript, HTMl, CSS, DummyJSON_API",
       git: "Shop",
-      gitPages: "https://karentsaturyan.github.io/Shop/"
+      gitPages: "Shop/"
     }
   ]
